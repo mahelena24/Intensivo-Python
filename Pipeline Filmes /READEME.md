@@ -33,19 +33,30 @@ Essas três etapas (ETL) são a base de qualquer pipeline de dados, seja em um s
 
 ## 📁 **Estrutura de Pastas**
 
-```projeto_filmes/
+projeto_filmes/
+
 │
+
 ├── dados/
+
 │ ├── filmes.csv # Dados brutos
+
 │ └── filmes_limpos.csv # Saída do pipeline
+
 │
 ├── src/
+
 │ ├── extrair.py # Extração dos dados
+
 │ ├── transformar.py # Limpeza e transformação
+
 │ ├── carregar.py # Salvamento dos dados tratados
+
 │ └── main.py # Orquestra todo o pipeline
+
 │
-└── README.md # Documentação do projeto```
+
+└── README.md # Documentação do projeto
 
 
 ---
