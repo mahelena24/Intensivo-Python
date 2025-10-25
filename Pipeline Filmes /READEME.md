@@ -50,14 +50,28 @@ projeto_filmes/
 
 ---
 
-## ⚙️ **Como Executar o Projeto**
+---
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/mahelena24/pipeline-filmes-python.git
+## 🌐 **Conecte-se comigo**
 
-2. **Entre na pasta do projeto:**
+📫 [Maria Helena Martins](https://www.linkedin.com/in/maria-helena-martins-647ab634a/)  
+🐙 [GitHub: @mahelena24](https://github.com/mahelena24)
 
-'''cd pipeline-filmes-python:
+---
 
+## 🧰 **Tecnologias utilizadas**
 
+- 🐍 **Python 3**  
+- 📁 **CSV** (dados brutos e limpos)  
+- 🧩 **Estruturas básicas**: listas, dicionários, loops e condicionais  
+
+---
+
+## ✨ **Resultado final**
+
+✅ Pipeline funcional em **Python puro**  
+✅ Código **modular e organizado**  
+✅ **Documentação clara e profissional**  
+✅ Projeto ideal para **portfólio e LinkedIn** 🚀  
+
+---
