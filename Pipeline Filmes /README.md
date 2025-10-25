@@ -45,7 +45,7 @@ Essas três etapas (ETL) são a base de qualquer pipeline de dados, seja em um s
 │ ├── carregar.py # Salvamento dos dados tratados
 │ └── main.py # Orquestra todo o pipeline
 │
-└── README.md # Documentação do projeto```
+└── README.md # Documentação do projeto
 
 
 ---
